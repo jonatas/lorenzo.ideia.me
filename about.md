@@ -4,12 +4,23 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## Sobre nossa família
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Sempre falo que eu amo tanto meu filho que criaria um fã clube pra ele :smile:
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Essa página não é um fã clube mas estou apaixonado pela vida de ser pai e decidi
+compartilhar um pouquinho de como é ter um filho e tantas coisas
+legais que acontecem quando você tenho a oportunidade de interagir e ensinar ele.
+
+Este ano que inicio esta página: 2016. O Lorenzo está com 4 anos.
+
+Todo dia ele têm várias histórias para contar. Ele é cheio de ideias e gosta
+muito de conversar e fazer as atividades em conjunto.
+
+Eu sou um pai muito feliz e agradecido pela oportunidade de educar uma criança.
+
+Essa não é uma tarefa fácil mas precisamos assumir e fazer de uma forma legal,
+eficiente, coerente e que faça sentido para nossas vidas e famílias.
+
+Sinta-se livre pra me mandar um email em jonatasdp@gmail.com.
+
