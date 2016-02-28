@@ -16,3 +16,4 @@ github_username:  jonatas
 markdown: kramdown
 gems:
   - jemoji
+  - oembed
