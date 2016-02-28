@@ -19,7 +19,6 @@ permalink: /1-ano
 {% instagram bTzvaWnfe8 %}
 {% instagram bMHvtYnfeL %}
 {% instagram bJagfrHfXS %}
-{% instagram bHs4JTnfSd %}
 {% instagram a3UhF7HfYf %}
 {% instagram atJ1erHfbg %}
 {% instagram ardcHWnff- %}
@@ -29,7 +28,6 @@ permalink: /1-ano
 {% instagram XMoLMVHfdB %}
 {% instagram Wf1UYbHfeH %}
 {% instagram VrNnvEnfYx %}
-{% instagram VjVUq_HfRG %}
 {% instagram VMUzK7nfWP %}
 {% instagram T__bWxHfZg %}
 {% instagram TtF9Usnfd9 %}
@@ -44,3 +42,6 @@ permalink: /1-ano
 {% instagram SjNbW5Hfbx %}
 {% instagram SOrVqMnfdR %}
 
+[:arrow_left: ver fotos de até 1 ano](/0-ano)
+
+[:arrow_right: ver fotos de 2 anos](/2-anos)

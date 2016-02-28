@@ -46,3 +46,7 @@ permalink: /2-anos/
 # :cake: 2 anos
 
 ---
+
+[:arrow_left: ver fotos de 1 ano](/1-ano)
+
+[:arrow_right: ver fotos de 3 anos](/3-anos)

@@ -25,8 +25,8 @@ Eu sou um pai muito feliz e agradecido pela oportunidade de educar uma criança.
 Essa não é uma tarefa fácil mas precisamos assumir e fazer de uma forma legal,
 eficiente, coerente e que faça sentido para nossas vidas e famílias.
 
-Sinta-se livre pra me mandar um email em jonatasdp@gmail.com ou veja mais sobre
-mim em http://ideia.me.
+Sinta-se livre pra me mandar um email em [jonatasdp@gmail.com](mailto:jonatasdp@gmail.com) ou veja mais sobre
+mim em [ideia.me](http://ideia.me).
 
 Aproveite! :cake: :tea:
 
