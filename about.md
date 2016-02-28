@@ -1,10 +1,13 @@
 ---
 layout: page
 title: About
+label: "?"
 permalink: /about/
 ---
 
-## Sobre nossa família
+Esses são o Lorenzo, Jônatas e Tânia.
+
+{% instagram 0f90g9nfQS %}
 
 Sempre falo que eu amo tanto meu filho que criaria um fã clube pra ele :smile:
 
@@ -22,5 +25,9 @@ Eu sou um pai muito feliz e agradecido pela oportunidade de educar uma criança.
 Essa não é uma tarefa fácil mas precisamos assumir e fazer de uma forma legal,
 eficiente, coerente e que faça sentido para nossas vidas e famílias.
 
-Sinta-se livre pra me mandar um email em jonatasdp@gmail.com.
+Sinta-se livre pra me mandar um email em jonatasdp@gmail.com ou veja mais sobre
+mim em http://ideia.me.
+
+Aproveite! :cake: :tea:
+
 
