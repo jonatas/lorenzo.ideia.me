@@ -2,7 +2,7 @@
 layout: page
 title: Até um ano
 label: 0
-permalink: /0-ano
+permalink: /0-ano/
 ---
 
 # :cake: < 1 ano

@@ -2,7 +2,7 @@
 layout: page
 title: 1 ano
 label: 1
-permalink: /1-ano
+permalink: /1-ano/
 ---
 
 {% instagram gjTDALHfdv %}
