@@ -9,6 +9,7 @@ description: >
   Nossas histórias não tem limites, nem são patrocinadas. Tudo aqui é feito com muito amor.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lorenzo.ideia.me" # the base hostname & protocol for your site
+podcasts_url: "http://feeds.soundcloud.com/users/soundcloud:users:38203103/sounds.rss"
 twitter_username: jonatasdp
 github_username:  jonatas
 
