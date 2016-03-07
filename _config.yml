@@ -10,6 +10,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lorenzo.ideia.me" # the base hostname & protocol for your site
 podcasts_url: "http://feeds.soundcloud.com/users/soundcloud:users:38203103/sounds.rss"
+itunes_url: "https://itunes.apple.com/br/podcast/boa-noite-lorenzo/id1089365742?l=en"
 twitter_username: jonatasdp
 github_username:  jonatas
 
