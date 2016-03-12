@@ -7,27 +7,35 @@ layout: default
   <h1 class="page-heading">:microphone: Podcasts</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit: 3 %}
       <div class="episode">
-        <h2>
-          <span>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"># {{ post.title }}</a>
-            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-          </span>
-        </h2>
-
-        <iframe width="100px" height="100px"
+        <div class="episode-listen">
+        <iframe width="300px" height="300px"
           scrolling="no" frameborder="no"
-          src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{post.soundcloud}}&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-
+          src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{post.soundcloud}}&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false&amp;visual=true">
+        </iframe>
+        </div>
+        <div class="episode-details">
+          <h2>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"># {{ post.podcast }} {{ post.title }}</a>
+              <span class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</span>
+          </h2>
+          {{ post.content }}
+        </div>
       </div>
+      <hr />
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe via
-  <a href="{{ site.itunes_url }}">iTunes</a>
-  or 
-  <a href="{{ site.podcasts_url }}">Podcast RSS</a>.
-  </p>
-
+  <div id="subscribe-bar">
+    <p class="rss-subscribe">Receba novas histórias via <a href="{{ site.itunes_url }}">iTunes</a> ou <a href="{{ site.podcasts_url }}">Podcast RSS</a>.</p>
+  </div>
+  <hr />
+  <h2>Todos episódios</h2>
+  <ul class="post-list-full">
+    {% for post in site.posts %}
+      <li>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><span class="post-meta">{{ post.date | date: "%d/%m/%Y" }} </span> # {{ post.podcast }} {{ post.title }}</a>
+     </li>
+    {% endfor %}
+  </ul>
 </div>

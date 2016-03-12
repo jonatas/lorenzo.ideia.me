@@ -51,4 +51,21 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
-.episode { float: left; }
+.episode {
+  overflow: scroll ;
+}
+
+.episode-details { float: right ; }
+.episode-listen { float: left ; }
+
+@media screen and (min-width: 600px) {
+    .episode-details, 
+    .episode-listen, 
+    { width: 50%;
+        display: block;
+    }
+}
+
+hr {
+  margin-bottom: 25px;
+}
